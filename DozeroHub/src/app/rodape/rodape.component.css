@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+.footer{
+    background-color: #0E0E2C;;
+    color: #FFFFFF;
+    position:relative;
+    bottom:0;
+    width:100%;  
+
+}
+
+.copyright{
+    font-size: 12px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.headlineFooter{
+    font-family: 'Work Sans', sans-serif;
+    text-transform: uppercase;
+    font-size: 24px;
+}
+
+
+.imgFooter{
+    padding: 14px 16px;
+
+}
