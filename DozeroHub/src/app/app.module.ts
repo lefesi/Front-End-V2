@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { MenuComponent } from './menu/menu.component';
 import { RodapeComponent } from './rodape/rodape.component';
 import { CardLoginComponent } from './card-login/card-login.component';
+import { CadastrarComponent } from './cadastrar/cadastrar.component';
 
 
 @NgModule({
@@ -13,7 +14,8 @@ import { CardLoginComponent } from './card-login/card-login.component';
     AppComponent,
     MenuComponent,
     RodapeComponent,
-    CardLoginComponent
+    CardLoginComponent,
+    CadastrarComponent
   ],
   imports: [
     BrowserModule,
