@@ -10,6 +10,7 @@ import { QuemSomosComponent } from './quem-somos/quem-somos.component';
 import { ContatoComponent } from './contato/contato.component';
 import { GenerationComponent } from './generation/generation.component';
 import { AjudaComponent } from './ajuda/ajuda.component';
+import { CadastrarComponent } from './cadastrar/cadastrar.component';
 
 
 @NgModule({
@@ -22,6 +23,7 @@ import { AjudaComponent } from './ajuda/ajuda.component';
     ContatoComponent,
     GenerationComponent,
     AjudaComponent
+    CadastrarComponent
   ],
   imports: [
     BrowserModule,
