@@ -3,9 +3,10 @@
 .footer{
     background-color: #0E0E2C;;
     color: #FFFFFF;
-    position:relative;
+    width:100%;
+    position: fixed;
     bottom:0;
-    width:100%;  
+    left:0;
 
 }
 
